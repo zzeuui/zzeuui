@@ -1,4 +1,5 @@
-### Hi there 👋
+### [이력서](https://shiny-saturn-356.notion.site/869dc267fbb445079efaddd785e54242?pvs=4)
+
 
 <!--
 **zzeuui/zzeuui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
